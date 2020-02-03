@@ -15,8 +15,10 @@ GoogleIDs:
     - 1lNQXFEkvZHzM_UKtlMgTTlVeLqsvlYpt # Oblivion: Oblivion Reloaded 7.0
     - 1UecVzTiVnTpkL18QtprLPLcSoApLAq3J # FNVLODGen_Output.7z
     - 1mvgmXs_VV_sqWc9xQeIvff8wlwdMDK00 # VRIK V0.8.1 In-Dev Build 4.7z
+    - 13-T6k9KUvpAhXuw0h_F4I4HsWwqRQyPq # VRIK V0.8.1 In-Dev Build 15.7z
     - 12wP2DkkZu9v9-Of5AMq425sIADEZ9nq_ # Merge Plugin Hide
     - 12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw # Particle Patch SE (16/01/2020)
+    - 12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk # Improved Camera Beta 4 for Skyrim SE
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -116,10 +118,9 @@ AllowedPrefixes:
 
     # Skyrim VR
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
-    - https://mega.nz/#!w0BjAKIZ!6GCtcLV00Ok_lOkqclpX7npGe_m5SOi8GWAfvEcL5jE # VR xLOD Files a2.0.3
-    - https://mega.nz/#!8xInSaDC!oZvdnKuHVOeuFF5aTjwSHQ8OItnENWr9N0wo4yzIiSg # VR DynLOD Files a2.0.3
-    - https://mega.nz/#!cwg3DIqB!J3bf5A9waUG3tnf--0kq9i5Pqpo_1tkPqQAjYmDEd84 # VR xLOD Files a2.1.0
-    - https://mega.nz/#!EhxBCKqA!N9e09pZfSrecRiUwIGOYkdo5wqQZWVyC4t3OcbnhjCY # VR DynLOD Files a2.1.0
+    - https://mega.nz/#!k4YyGIAC!2wqiBAuzPAXiOjWlVMJz73PPVJcfIlvjd6X2-bJcMis # VR xLOD Files a2.2.0
+    - https://mega.nz/#!ltRSFQiT!elr97bS7JbXB8sjdp_61nuIT8K8p3GK1v8kPHbC4YbU # VR DynLOD Files a2.2.0 Full
+    - https://mega.nz/#!FlJDXQTA!6x0HMEmcDpd7vVHeXsKPfjCxMz3zm6CmcBNMvVYuVgA # VR DynLOD Files a2.2.0 Lite
     - https://mega.nz/#!M5BCWABI!GgOE0PCgVFd7xpEMDfuMfh5Mhx7kpR_kca1U1O2t8f0 # Immersive Armors CTD Fix
     - https://mega.nz/#!plISxSaT!G-jpedyl1ZV-erTHRkuqo8FvHZeYThX5b3OJ0dUUYfE # 
  
@@ -158,5 +159,8 @@ AllowedPrefixes:
     - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7
     
     # Unofficial Lexy LOTD patches & files
-    - https://mega.nz/#!FYslkC7Z!lNHJstUcUy9_ySCwNll45ZU7QC3Lzy8cKP6CQHBOYj0 # Lexy's LOTD Replacer Files
-    - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Finishing Line Files
+    - https://mega.nz/#!FYslkC7Z!lNHJstUcUy9_ySCwNll45ZU7QC3Lzy8cKP6CQHBOYj0 # xLODGEN Output
+    - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
+
+    # trawzifieds LOTD
+    - https://mega.nz/#!ghAWiQbD!PIq-mZN3Y3i6k2ounsPt41CZ6hqEMKvsWnMsuFSFrZg # trawzifieds Finishing Line Files
